@@ -1,11 +1,8 @@
 ### Olá, eu sou o Victor Matheus!!
 
-- 🔭 Hoje estou em busca de vagas na área de desenvolvimento de software dentro do Front-end e Back-end.
-- ✨Desenvolvendo Software desde 2019
+- ✨Estudando e desenvolvendo Software desde 2019
 - 📚Formado no curso Técnico de Informática e no 1º semestre de Análise e Desenvolvimento de Sistemas
 - 💼 Desenvolvedor Fullstack.
-- 🌱 Apaixonado por Java e Javascript
-- 😄 Ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
